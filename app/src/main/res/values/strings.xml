@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoReadOtp</string>
+    <string name="otp_verification">Get Otp Verification</string>
+    <string name="enter_verification_code">Enter the verification Code We just send to your phone.</string>
+</resources>
